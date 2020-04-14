@@ -1,0 +1,7 @@
+C:\Users\mrbjn\source\repos\test1\bin\Debug\test1.exe.config
+C:\Users\mrbjn\source\repos\test1\bin\Debug\test1.exe
+C:\Users\mrbjn\source\repos\test1\bin\Debug\test1.pdb
+C:\Users\mrbjn\source\repos\test1\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\mrbjn\source\repos\test1\obj\Debug\test1.exe
+C:\Users\mrbjn\source\repos\test1\obj\Debug\test1.pdb
+C:\Users\mrbjn\source\repos\test1\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
